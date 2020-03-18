@@ -1,4 +1,4 @@
-# Foodfy1.0---Rocketseat
+# Foodfy1.0 - Curso LaunchBase Rocketseat
 ### Site sobre receitas criado no curso da Rocketseat LaunchBase módulo 1
 
 -> Linguagens utilizadas: HTML, JavaScript e CSS
